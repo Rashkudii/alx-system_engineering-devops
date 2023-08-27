@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -d "z" -fl,6 /etc/passwd | sort
